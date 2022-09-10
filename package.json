@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "debug": "^4.3.4",
+    "fs-spy": "^0.0.2",
+    "tinypool": "^0.2.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "get-image-color": "^1.0.4",
+    "ig": "^0.0.5",
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^3.2.9",
+    "webp-batch-convert": "^0.1.2"
+  }
+}
