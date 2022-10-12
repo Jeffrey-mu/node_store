@@ -7,9 +7,11 @@
   "type": "module",
   "dependencies": {
     "get-image-color": "^1.0.4",
+    "gulp": "^4.0.2",
+    "gulp-webp": "^4.0.1",
     "ig": "^0.0.5",
     "js-yaml": "^4.1.0",
     "node-fetch": "^3.2.9",
-    "webp-batch-convert": "^0.1.2"
+    "webp-batch-convert-p": "^0.0.4"
   }
 }

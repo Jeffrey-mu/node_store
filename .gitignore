@@ -1,2 +1,5 @@
 node_modules
 command
+src/webp-batch-convert/uploadsImg
+src/webp-batch-convert/uploadsImgone
+src/webp-batch-convert
